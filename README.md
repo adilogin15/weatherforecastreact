@@ -16,7 +16,7 @@ REACT_APP_ICON_URL = 'https://openweathermap.org/img/w'
 
 Follow instructions on https://github.com/facebook/create-react-app
 
-Then copy the folder structure in this github directory there
+Then copy the folder structure from this github repository in the app created.
 
 ## Build the project for Production
 
