@@ -12,3 +12,28 @@ REACT_APP_API_URL = 'https://api.openweathermap.org/data/2.5'
 REACT_APP_API_KEY = The API key you obtained from openweathermap.org
 REACT_APP_ICON_URL = 'https://openweathermap.org/img/w'
 ```
+## Create the new App
+
+Follow instructions on https://github.com/facebook/create-react-app
+
+Then copy the folder structure in this github directory there
+
+## Build the project for Production
+
+```sh
+npm run build
+```
+
+or
+
+```sh
+yarn build
+```
+
+- Builds the app for production to the build folder.
+
+- It correctly bundles React in production mode and optimizes the build for the best performance.
+
+- The build is minified and the filenames include the hashes.
+
+Your app is ready to be deployed.
